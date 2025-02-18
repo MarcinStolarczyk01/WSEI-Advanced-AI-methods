@@ -1,0 +1,6 @@
+.venv/*
+.venv
+.idea
+.idea/*
+lab2/mnist_test.csv
+lab2/mnist_train.csv
